@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@ant-design/icons": "^6.1.0",
     "expo": "~55.0.4",
     "expo-router": "~55.0.3",
     "expo-status-bar": "~55.0.4",
